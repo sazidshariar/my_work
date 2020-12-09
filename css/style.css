@@ -1,0 +1,29 @@
+#head1{
+	color: blue;
+}
+.heading{
+	color:green;
+}
+.heading{
+	background-color: black;
+}
+span{
+	color:red;
+}
+#head2{
+	color:yellow;
+}
+h4{
+	color: #354679;
+}
+h5{
+	color:rgb(00, 99, 12); background-color:red;
+}
+.head{
+	color:red;
+}
+.box{
+	width:150px;
+	height: 150px;
+	background-color: rgba(18, 152, 87, .3);
+}
